@@ -1,0 +1,9 @@
+dataset,model,group,n,agree_pct,kappa,human_P_pct,humanP_vlmA_pct
+youcook2,mm,non-visual,195,47.7,0.055,95.4,51.8
+youcook2,mm,visual,5,100.0,1.0,100.0,0.0
+youcook2,blip,non-visual,196,45.4,0.1002,91.8,54.6
+youcook2,blip,visual,4,75.0,0.0,100.0,25.0
+videoxum,mm,non-visual,87,46.0,0.135,87.4,54.0
+videoxum,mm,visual,113,76.1,0.3437,89.4,23.0
+videoxum,blip,visual,119,75.6,0.4128,84.9,23.5
+videoxum,blip,non-visual,81,48.1,0.1457,87.7,51.9

@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>GroundSumm Annotation</title>
+<style>
+:root {
+  --bg: #1a1a1a; --fg: #e8e8e8; --accent: #4a9eff; --pos: #4ade80;
+  --neg: #f87171; --amb: #fbbf24; --muted: #888;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--fg);
+       font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+#topbar { padding: 12px 20px; background: #222; border-bottom: 1px solid #333;
+          display: flex; gap: 20px; align-items: center; flex-wrap: wrap; }
+#topbar button, #topbar label { padding: 6px 12px; background: #333;
+  color: var(--fg); border: 1px solid #444; border-radius: 4px;
+  cursor: pointer; font-size: 14px; }
+#topbar button:hover { background: #444; }
+#counter { font-weight: bold; color: var(--accent); }
+#main { display: grid; grid-template-columns: 1fr 380px; gap: 20px;
+        padding: 20px; max-width: 1800px; margin: 0 auto; }
+#image-pane img { max-width: 100%; height: auto; border: 1px solid #333; border-radius: 4px; }
+#side { display: flex; flex-direction: column; gap: 16px; }
+.entity-box { background: #222; padding: 16px; border-radius: 6px; border: 1px solid #333; }
+.entity-surface { font-size: 28px; font-weight: bold; color: var(--accent); margin-bottom: 8px; }
+.entity-type { color: var(--muted); font-size: 13px; }
+.entity-meta { font-size: 13px; color: #aaa; margin-top: 8px; line-height: 1.6; }
+.entity-meta b { color: var(--fg); }
+.summary-text { background: #1f1f1f; padding: 10px; border-left: 3px solid var(--accent);
+                font-size: 12px; color: #bbb; margin-top: 10px; max-height: 100px; overflow: auto; }
+.malformed-flag { display: inline-block; background: var(--neg); color: #000; padding: 2px 8px;
+                  border-radius: 3px; font-size: 11px; margin-left: 8px; }
+#buttons { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; }
+.judge-btn { padding: 16px; font-size: 18px; font-weight: bold; border: none;
+             border-radius: 6px; cursor: pointer; color: #000; }
+.judge-btn.P { background: var(--pos); }
+.judge-btn.A { background: var(--neg); }
+.judge-btn.Q { background: var(--amb); }
+.judge-btn .key { display: block; font-size: 11px; opacity: 0.7; margin-top: 4px; }
+#nav { display: flex; gap: 8px; }
+#nav button { flex: 1; padding: 10px; background: #2a2a2a; color: var(--fg);
+              border: 1px solid #444; border-radius: 4px; cursor: pointer; }
+#stats { background: #1f1f1f; padding: 12px; border-radius: 4px; font-size: 13px; line-height: 1.6; }
+#stats span { display: inline-block; margin-right: 12px; }
+.s-P { color: var(--pos); } .s-A { color: var(--neg); } .s-Q { color: var(--amb); }
+.help { font-size: 12px; color: var(--muted); line-height: 1.5; }
+.help kbd { background: #333; padding: 2px 6px; border-radius: 3px; border: 1px solid #555; }
+#progress-bar { height: 4px; background: #333; border-radius: 2px; overflow: hidden; margin-top: 6px; }
+#progress-fill { height: 100%; background: var(--accent); width: 0%; transition: width 0.2s; }
+</style>
+</head>
+<body>
+
+<div id="topbar">
+  <label>CSV: <input type="file" id="csv-input" accept=".csv"></label>
+  <button id="resume-btn">Resume from saved</button>
+  <button id="export-btn">Export judgments</button>
+  <span id="counter">0 / 0</span>
+  <span id="filename" style="color: var(--muted); font-size: 13px;"></span>
+</div>
+
+<div id="main">
+  <div id="image-pane">
+    <img id="frame-grid" alt="Frame grid will appear here once a CSV is loaded">
+    <div id="progress-bar"><div id="progress-fill"></div></div>
+  </div>
+  <div id="side">
+    <div class="entity-box">
+      <div class="entity-surface" id="surface">—</div>
+      <div class="entity-type" id="type-line">—</div>
+      <div class="entity-meta" id="meta">Load a CSV to begin.</div>
+      <div class="summary-text" id="summary">—</div>
+    </div>
+    <div id="buttons">
+      <button class="judge-btn P" data-j="P">Present<span class="key">P</span></button>
+      <button class="judge-btn A" data-j="A">Absent<span class="key">A</span></button>
+      <button class="judge-btn Q" data-j="?">Ambiguous<span class="key">?</span></button>
+    </div>
+    <div id="nav">
+      <button id="prev-btn">← Prev (J)</button>
+      <button id="next-btn">Next (K) →</button>
+      <button id="skip-btn">Skip (S)</button>
+    </div>
+    <div id="stats">Stats will appear here.</div>
+    <div class="help">
+      <kbd>P</kbd> Present &nbsp; <kbd>A</kbd> Absent &nbsp; <kbd>?</kbd> Ambiguous
+      &nbsp;|&nbsp; <kbd>J</kbd>/<kbd>K</kbd> back/forward &nbsp; <kbd>S</kbd> skip without saving
+      <br>Judgments save to localStorage automatically. Use "Export" when done.
+    </div>
+  </div>
+</div>
+
+<script>
+let rows = [];
+let idx = 0;
+let csvName = '';
+const judgments = {}; // entity_id -> {judgment, ts}
+
+function parseCSV(text) {
+  // Minimal CSV parser (handles quoted fields with commas and embedded quotes)
+  const lines = []; let cur = ''; let inQ = false;
+  const rawLines = text.split(/\r?\n/);
+  const rows = [];
+  for (const line of rawLines) {
+    const fields = []; let f = ''; let q = false;
+    for (let i = 0; i < line.length; i++) {
+      const c = line[i];
+      if (q) {
+        if (c === '"' && line[i+1] === '"') { f += '"'; i++; }
+        else if (c === '"') { q = false; }
+        else { f += c; }
+      } else {
+        if (c === '"') { q = true; }
+        else if (c === ',') { fields.push(f); f = ''; }
+        else { f += c; }
+      }
+    }
+    fields.push(f);
+    rows.push(fields);
+  }
+  const header = rows[0];
+  return rows.slice(1).filter(r => r.length > 1 && r.some(x => x !== '')).map(r => {
+    const o = {};
+    header.forEach((h, i) => o[h] = r[i] !== undefined ? r[i] : '');
+    return o;
+  });
+}
+
+function storageKey() { return 'groundsumm_annot_' + csvName; }
+
+function saveProgress() {
+  localStorage.setItem(storageKey(), JSON.stringify(judgments));
+}
+
+function loadProgress() {
+  const raw = localStorage.getItem(storageKey());
+  if (raw) {
+    const obj = JSON.parse(raw);
+    Object.assign(judgments, obj);
+  }
+}
+
+function render() {
+  if (rows.length === 0) return;
+  const r = rows[idx];
+  document.getElementById('counter').textContent = (idx + 1) + ' / ' + rows.length;
+  document.getElementById('surface').innerHTML = r.surface +
+    (r.malformed === 'True' ? '<span class="malformed-flag">malformed</span>' : '');
+  document.getElementById('type-line').textContent = r.type + '  ·  bucket=' + r.bucket + '  ·  blip_max=' + r.blip_max;
+  const cur = judgments[r.entity_id];
+  const curMark = cur ? '<b style="color:var(--accent)">judgment: ' + cur.judgment + '</b>' : '<i>not yet judged</i>';
+  document.getElementById('meta').innerHTML = curMark +
+    '<br>argmax_frame=' + r.blip_argmax_frame + '  ·  video_id=' + r.video_id;
+  document.getElementById('summary').textContent = r.summary_text;
+  document.getElementById('frame-grid').src = '/' + r.frame_grid_path.replace(/^\/+/, '');
+  document.getElementById('frame-grid').alt = 'Frame grid for ' + r.video_id;
+  updateStats();
+  const pct = Math.round(100 * Object.keys(judgments).length / rows.length);
+  document.getElementById('progress-fill').style.width = pct + '%';
+}
+
+function updateStats() {
+  let p = 0, a = 0, q = 0;
+  for (const k in judgments) {
+    const v = judgments[k].judgment;
+    if (v === 'P') p++; else if (v === 'A') a++; else if (v === '?') q++;
+  }
+  const total = Object.keys(judgments).length;
+  document.getElementById('stats').innerHTML =
+    '<b>' + total + '</b> judged / ' + rows.length + ' &nbsp;|&nbsp; ' +
+    '<span class="s-P">P=' + p + '</span>' +
+    '<span class="s-A">A=' + a + '</span>' +
+    '<span class="s-Q">?=' + q + '</span>';
+}
+
+function judge(j) {
+  if (rows.length === 0) return;
+  const r = rows[idx];
+  judgments[r.entity_id] = { judgment: j, ts: Date.now() };
+  saveProgress();
+  next();
+}
+
+function next() {
+  if (idx < rows.length - 1) { idx++; render(); }
+}
+function prev() {
+  if (idx > 0) { idx--; render(); }
+}
+
+function jumpToFirstUnjudged() {
+  for (let i = 0; i < rows.length; i++) {
+    if (!judgments[rows[i].entity_id]) { idx = i; render(); return; }
+  }
+  idx = rows.length - 1; render();
+}
+
+document.getElementById('csv-input').addEventListener('change', async (e) => {
+  const file = e.target.files[0];
+  if (!file) return;
+  csvName = file.name;
+  document.getElementById('filename').textContent = csvName;
+  const text = await file.text();
+  rows = parseCSV(text);
+  // Clear judgments from previous file
+  for (const k in judgments) delete judgments[k];
+  loadProgress();
+  idx = 0;
+  jumpToFirstUnjudged();
+});
+
+document.getElementById('resume-btn').addEventListener('click', () => {
+  jumpToFirstUnjudged();
+});
+
+document.getElementById('export-btn').addEventListener('click', () => {
+  if (rows.length === 0) { alert('Load a CSV first.'); return; }
+  // Emit JSONL: one line per judged entity_id with judgment and metadata
+  const out = [];
+  for (const r of rows) {
+    const j = judgments[r.entity_id];
+    if (!j) continue;
+    out.push(JSON.stringify({
+      entity_id: r.entity_id,
+      summary_id: r.summary_id,
+      surface: r.surface,
+      type: r.type,
+      malformed: r.malformed,
+      bucket: r.bucket,
+      blip_max: r.blip_max,
+      video_id: r.video_id,
+      judgment: j.judgment,
+      ts: j.ts,
+    }));
+  }
+  const blob = new Blob([out.join('\n') + '\n'], { type: 'application/x-jsonlines' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = csvName.replace(/\.csv$/, '') + '_judgments.jsonl';
+  a.click();
+});
+
+document.querySelectorAll('.judge-btn').forEach(b => {
+  b.addEventListener('click', () => judge(b.dataset.j));
+});
+document.getElementById('next-btn').addEventListener('click', next);
+document.getElementById('prev-btn').addEventListener('click', prev);
+document.getElementById('skip-btn').addEventListener('click', next);
+
+document.addEventListener('keydown', (e) => {
+  if (e.target.tagName === 'INPUT') return;
+  const k = e.key.toLowerCase();
+  if (k === 'p') judge('P');
+  else if (k === 'a') judge('A');
+  else if (k === '?' || k === '/') judge('?');
+  else if (k === 'k' || k === 'arrowright') next();
+  else if (k === 'j' || k === 'arrowleft') prev();
+  else if (k === 's') next();
+});
+</script>
+</body>
+</html>

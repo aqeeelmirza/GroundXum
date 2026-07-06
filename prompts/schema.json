@@ -1,0 +1,43 @@
+{
+  "version": "0.1",
+  "datasets": {
+    "youcook2": {
+      "domain": "cooking",
+      "entity_types": {
+        "ingredient": "Any food item, liquid, or seasoning used in the recipe (e.g., chicken, flour, olive oil, salt, garlic)",
+        "tool": "Any cooking implement, vessel, or appliance (e.g., pan, oven, whisk, bowl, wok)",
+        "action": "A cooking verb in its base form (e.g., boil, fry, mix, season, bake)",
+        "attribute": "A property or state describing an ingredient or dish (e.g., golden brown, chopped, hot, fresh)"
+      },
+      "relation_types": {
+        "uses_ingredient": "action -> ingredient (the action is performed on this ingredient)",
+        "uses_tool": "action -> tool (the action is performed using this tool)",
+        "has_attribute": "ingredient -> attribute (the ingredient has this state/property)",
+        "follows": "action -> action (the second action follows the first temporally)"
+      }
+    },
+    "videoxum": {
+      "domain": "open_domain_activities",
+      "entity_types": {
+        "person": "A human subject (e.g., man, woman, child, group, athlete)",
+        "object": "Any physical object, instrument, vehicle, or thing (e.g., piano, ball, car, dog)",
+        "setting": "A location or scene type (e.g., stage, beach, gym, classroom, street)",
+        "action": "An activity verb in its base form (e.g., play, run, talk, hold, skate)",
+        "attribute": "A property describing a person, object, or setting (e.g., black, sunny, large)"
+      },
+      "relation_types": {
+        "performs": "person -> action (the person is doing the action)",
+        "uses_object": "action -> object (the action involves this object)",
+        "located_in": "person | action -> setting (occurs in this setting)",
+        "has_attribute": "person | object | setting -> attribute"
+      }
+    }
+  },
+  "extraction_rules": {
+    "literal_only": "Extract ONLY entities and relations explicitly stated in the summary text. Do NOT infer or add commonsense knowledge.",
+    "preserve_form": "Preserve the surface form of malformed or unusual tokens (e.g., 'verdalago', 'garala') as-is. Do not normalize to a likely intended word. Mark them with 'malformed: true'.",
+    "no_repetition": "If the same entity appears multiple times in a summary, extract it ONCE as a single entity.",
+    "lowercase": "Normalize entity surface forms to lowercase.",
+    "empty_ok": "If the summary is degenerate or contains no extractable entities, return an empty entities/triples list with reason 'degenerate'."
+  }
+}

@@ -1,0 +1,77 @@
+================================================================================
+GROUNDSUMM MASTER RESULTS
+================================================================================
+
+## PART 1: VLM grounding rate (ground truth)
+dataset   model        N      P      A  P-rate
+youcook2  mm        3910   1705   2205   43.6%
+youcook2  blip      2686    942   1744   35.1%
+videoxum  mm       23223  13212  10011   56.9%
+videoxum  blip     23217  12909  10308   55.6%
+
+## PART 2: MM vs TXT (grounded entity count & rate)
+youcook2: MM 1705/3910 (43.61%)  vs  TXT 942/2686 (35.07%)  rate diff +8.5
+videoxum: MM 13212/23223 (56.89%)  vs  TXT 12909/23217 (55.6%)  rate diff +1.3
+
+## PART 3: Malformed vs real entity grounding (VLM=P rate)
+dataset   model    mal_P%  mal_n  real_P%  real_n    gap
+youcook2  mm        12.5%    271    45.9%    3639  +33.4
+youcook2  blip      12.5%    686    42.8%    2000  +30.3
+videoxum  mm        45.2%    197    57.0%   23026  +11.8
+videoxum  blip      52.9%    104    55.6%   23113   +2.7
+
+## PART 4: Per-entity-type VLM grounding rate (types with n>=10)
+
+youcook2/mm:
+    ingredient    50.4%  (n=2823)
+    action        24.6%  (n=963)
+    attribute      6.2%  (n=65)
+    tool          71.4%  (n=56)
+
+youcook2/blip:
+    ingredient    38.8%  (n=2050)
+    action        21.9%  (n=566)
+    attribute     12.8%  (n=39)
+    tool          59.3%  (n=27)
+
+videoxum/mm:
+    action        38.7%  (n=8807)
+    person        76.0%  (n=5857)
+    setting       60.0%  (n=4056)
+    object        65.8%  (n=4044)
+    attribute     41.1%  (n=190)
+    ingredient    67.1%  (n=146)
+    tool          65.6%  (n=122)
+
+videoxum/blip:
+    action        36.7%  (n=9386)
+    person        78.7%  (n=5204)
+    object        61.5%  (n=4566)
+    setting       63.3%  (n=3642)
+    ingredient    61.8%  (n=220)
+    tool          57.5%  (n=106)
+    attribute     58.9%  (n=90)
+
+## PART 5: Scorer calibration vs VLM (best F1 per scorer)
+dataset   model  scorer     bestF1 @thresh       n
+youcook2  mm     blip       0.634     0.1    3910
+youcook2  mm     clip       0.610     0.2    3910
+youcook2  blip   blip       0.559     0.1    2686
+youcook2  blip   clip       0.527    0.25    2686
+videoxum  mm     blip       0.770    0.15   23223
+videoxum  mm     clip       0.727     0.2   23223
+videoxum  blip   blip       0.766    0.15   23217
+videoxum  blip   clip       0.717     0.2   23217
+
+## PART 6: Human audit (800) vs VLM agreement
+dataset   model      N  agree%  both_P  both_A disputed
+youcook2  mm       200   49.0%      90       8      101
+youcook2  blip     200   46.0%      76      16      108
+videoxum  mm       200   63.0%     104      22       73
+videoxum  blip     200   64.5%     102      27       70
+
+## PART 7: BLIP-ITM vs CLIP scorer agreement (at each scorer's best threshold)
+youcook2  mm       scorer-agreement=64.3%  (n=3910, blip>0.1 vs clip>0.2)
+youcook2  blip     scorer-agreement=60.1%  (n=2686, blip>0.1 vs clip>0.25)
+videoxum  mm       scorer-agreement=68.5%  (n=23223, blip>0.15 vs clip>0.2)
+videoxum  blip     scorer-agreement=66.5%  (n=23217, blip>0.15 vs clip>0.2)

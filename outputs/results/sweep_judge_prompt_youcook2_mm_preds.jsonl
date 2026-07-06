@@ -1,0 +1,1000 @@
+{"entity_id": "mm_blip_00045__e8", "surface": "ground beef", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00388__e3", "surface": "yellow pepper", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00428__e8", "surface": "pot", "type": "tool", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00318__e1", "surface": "tomato sauce", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00188__e2", "surface": "clams", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00209__e3", "surface": "lime sauce", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00399__e4", "surface": "cayenne pepper", "type": "ingredient", "variant": "v0_original", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00031__e8", "surface": "honey", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00278__e1", "surface": "shepherd", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00432__e3", "surface": "oil", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00225__e1", "surface": "pierogies", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00195__e8", "surface": "oil miso soup", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00013__e13", "surface": "wok", "type": "tool", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00329__e9", "surface": "mixing", "type": "action", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00434__e5", "surface": "tomato puree", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00179__e2", "surface": "baking powder", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00261__e6", "surface": "bean sprouts", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00272__e1", "surface": "burger", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00205__e2", "surface": "salt", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00006__e3", "surface": "chili powder", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00194__e1", "surface": "kimchi dumchi", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00177__e2", "surface": "italian dressing", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00230__e5", "surface": "cayenne sticks", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00006__e10", "surface": "serve", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00349__e5", "surface": "lime milk", "type": "ingredient", "variant": "v0_original", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00149__e5", "surface": "flour", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00134__e5", "surface": "lettuce", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00308__e8", "surface": "bun", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00316__e7", "surface": "shake", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00174__e2", "surface": "clam peppers", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00337__e2", "surface": "onions", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00205__e3", "surface": "chili powder", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00293__e5", "surface": "cardamated onion", "type": "ingredient", "variant": "v0_original", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00426__e11", "surface": "lid", "type": "tool", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00170__e5", "surface": "lemon juice", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00059__e1", "surface": "sirloin meat", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00452__e9", "surface": "mix", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00305__e4", "surface": "spices", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00344__e11", "surface": "parsley", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00033__e2", "surface": "meat", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00259__e11", "surface": "seal", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00342__e4", "surface": "garlic", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00360__e2", "surface": "vegetables", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00264__e4", "surface": "lemon sauce", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00242__e6", "surface": "pasta", "type": "ingredient", "variant": "v0_original", "human": "A", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00425__e1", "surface": "pepper", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00285__e8", "surface": "wok", "type": "tool", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00285__e4", "surface": "sesame oil", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00309__e13", "surface": "serve", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00059__e5", "surface": "lemon skin", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00372__e2", "surface": "macaroni", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00022__e5", "surface": "green cardamom", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00370__e10", "surface": "fenander milk", "type": "ingredient", "variant": "v0_original", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00101__e8", "surface": "olive oil", "type": "ingredient", "variant": "v0_original", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00004__e13", "surface": "flavorful", "type": "attribute", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00306__e1", "surface": "calamari tentacles", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00161__e6", "surface": "make", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00018__e3", "surface": "noodles", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00032__e4", "surface": "herbs", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00242__e5", "surface": "tomato puree", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00311__e6", "surface": "add", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00254__e5", "surface": "garlic", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00160__e3", "surface": "salt", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00245__e2", "surface": "onions", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00161__e2", "surface": "garlic powder", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00433__e4", "surface": "olaine dressing", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00051__e4", "surface": "worcestershire sauce", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00251__e7", "surface": "simmer", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00055__e3", "surface": "celery", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00213__e2", "surface": "brown sugar", "type": "ingredient", "variant": "v0_original", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00422__e1", "surface": "meat", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00200__e1", "surface": "meatballs", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00265__e8", "surface": "slice", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00414__e3", "surface": "ghee", "type": "ingredient", "variant": "v0_original", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00119__e5", "surface": "cucumber", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00092__e4", "surface": "milk", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00050__e6", "surface": "stretch", "type": "action", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00394__e4", "surface": "potato", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00381__e6", "surface": "mix", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00132__e7", "surface": "lettuce", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00187__e7", "surface": "black pepper", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00309__e11", "surface": "cook", "type": "action", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00169__e4", "surface": "ground pepper", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00106__e3", "surface": "carrots", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00406__e8", "surface": "divide", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00337__e8", "surface": "pepper", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00300__e12", "surface": "sauté", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00423__e2", "surface": "garlic", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00034__e8", "surface": "cook", "type": "action", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00291__e3", "surface": "egg yolk", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00001__e2", "surface": "brine", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00093__e7", "surface": "add", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00360__e7", "surface": "rice sauce", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00289__e8", "surface": "boiling water", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00101__e10", "surface": "blend", "type": "action", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00449__e10", "surface": "tofu", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00070__e4", "surface": "skim", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00427__e7", "surface": "at", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00157__e3", "surface": "hot oil", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00214__e5", "surface": "sives", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00117__e4", "surface": "cucumbers", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00102__e8", "surface": "milk", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00411__e1", "surface": "swiss grilled cheddar sandwich", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00396__e6", "surface": "sugar", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00352__e6", "surface": "walnuts", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00194__e9", "surface": "orange juice", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00145__e1", "surface": "pepperoni sandwich", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00452__e11", "surface": "burrito", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00274__e1", "surface": "batteramed egg", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00069__e6", "surface": "cucumber", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00364__e1", "surface": "bulgarraaze", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00042__e5", "surface": "cayenne pepper", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00144__e7", "surface": "toast", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00444__e5", "surface": "cucumber", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00241__e4", "surface": "oil", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00240__e6", "surface": "mix", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00156__e2", "surface": "ginger", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00304__e2", "surface": "potatoes", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00087__e10", "surface": "broth", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00213__e6", "surface": "sausmegized onions", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00250__e4", "surface": "lettuce", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00232__e3", "surface": "bacon", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00437__e5", "surface": "cheese", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00004__e5", "surface": "ginger paste", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00412__e5", "surface": "salt", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00180__e2", "surface": "lay", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00387__e6", "surface": "pancetta", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00000__e5", "surface": "verattago", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00427__e3", "surface": "seasonings", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00398__e11", "surface": "serve", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00255__e6", "surface": "garnumber", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00373__e4", "surface": "lemon juice", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00055__e7", "surface": "chicken stock", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00047__e1", "surface": "hot dogs", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00215__e1", "surface": "ribs", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00351__e1", "surface": "pasta", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00153__e2", "surface": "flour", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00166__e7", "surface": "spring", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00422__e3", "surface": "oil", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00156__e12", "surface": "sauté", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00027__e7", "surface": "season", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00258__e1", "surface": "chicken whites", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00049__e2", "surface": "grill", "type": "tool", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00098__e1", "surface": "rice paper", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00182__e2", "surface": "butter", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00018__e4", "surface": "fish balls", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00372__e4", "surface": "butter", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00311__e3", "surface": "paneer chilis", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00247__e7", "surface": "leeks", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00416__e8", "surface": "brown sauce", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00303__e6", "surface": "benaise dish", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00386__e9", "surface": "golden whites", "type": "attribute", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00076__e5", "surface": "mustard", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00375__e1", "surface": "potato batter", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00132__e6", "surface": "soy sauce", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00234__e10", "surface": "add", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00110__e5", "surface": "salt", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00135__e10", "surface": "nuts", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00103__e6", "surface": "oregano", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00364__e9", "surface": "transfer", "type": "action", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00247__e10", "surface": "peperings", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00414__e8", "surface": "samosa", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00005__e1", "surface": "dough", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00378__e10", "surface": "lettuce", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00227__e1", "surface": "onion", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00295__e1", "surface": "shrimp", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00308__e5", "surface": "mustard", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00379__e2", "surface": "bell peppers", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00018__e2", "surface": "chicken broth", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00272__e7", "surface": "assemble", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00222__e1", "surface": "oil", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00031__e1", "surface": "beef", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00210__e6", "surface": "salt", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00353__e8", "surface": "mix", "type": "action", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00153__e8", "surface": "cook", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00410__e7", "surface": "ginger oil", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00245__e6", "surface": "red milk", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00398__e1", "surface": "chicken", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00245__e3", "surface": "garlic", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00102__e7", "surface": "sugarers", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00062__e7", "surface": "form", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00251__e4", "surface": "green onions", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00138__e1", "surface": "shrimp", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00184__e8", "surface": "oil", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00083__e8", "surface": "cook", "type": "action", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00088__e5", "surface": "green peppers", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00107__e6", "surface": "chiles", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00118__e1", "surface": "chicken mixture", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00137__e10", "surface": "bake", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00299__e5", "surface": "vegetables", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00388__e13", "surface": "toss", "type": "action", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00173__e7", "surface": "thyme", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00098__e3", "surface": "avocado", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00013__e1", "surface": "red cabbage", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00310__e5", "surface": "cucumber", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00119__e1", "surface": "hamle soup", "type": "ingredient", "variant": "v0_original", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00378__e7", "surface": "green onions", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00163__e5", "surface": "chives", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00389__e2", "surface": "chicken soup", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00190__e3", "surface": "bonito flakes", "type": "ingredient", "variant": "v0_original", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00045__e8", "surface": "ground beef", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00388__e3", "surface": "yellow pepper", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00428__e8", "surface": "pot", "type": "tool", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00318__e1", "surface": "tomato sauce", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00188__e2", "surface": "clams", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00209__e3", "surface": "lime sauce", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00399__e4", "surface": "cayenne pepper", "type": "ingredient", "variant": "v1_reworded", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00031__e8", "surface": "honey", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00278__e1", "surface": "shepherd", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00432__e3", "surface": "oil", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00225__e1", "surface": "pierogies", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00195__e8", "surface": "oil miso soup", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00013__e13", "surface": "wok", "type": "tool", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00329__e9", "surface": "mixing", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00434__e5", "surface": "tomato puree", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00179__e2", "surface": "baking powder", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00261__e6", "surface": "bean sprouts", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00272__e1", "surface": "burger", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00205__e2", "surface": "salt", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00006__e3", "surface": "chili powder", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00194__e1", "surface": "kimchi dumchi", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00177__e2", "surface": "italian dressing", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00230__e5", "surface": "cayenne sticks", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00006__e10", "surface": "serve", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00349__e5", "surface": "lime milk", "type": "ingredient", "variant": "v1_reworded", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00149__e5", "surface": "flour", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00134__e5", "surface": "lettuce", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00308__e8", "surface": "bun", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00316__e7", "surface": "shake", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00174__e2", "surface": "clam peppers", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00337__e2", "surface": "onions", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00205__e3", "surface": "chili powder", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00293__e5", "surface": "cardamated onion", "type": "ingredient", "variant": "v1_reworded", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00426__e11", "surface": "lid", "type": "tool", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00170__e5", "surface": "lemon juice", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00059__e1", "surface": "sirloin meat", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00452__e9", "surface": "mix", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00305__e4", "surface": "spices", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00344__e11", "surface": "parsley", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00033__e2", "surface": "meat", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00259__e11", "surface": "seal", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00342__e4", "surface": "garlic", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00360__e2", "surface": "vegetables", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00264__e4", "surface": "lemon sauce", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00242__e6", "surface": "pasta", "type": "ingredient", "variant": "v1_reworded", "human": "A", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00425__e1", "surface": "pepper", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00285__e8", "surface": "wok", "type": "tool", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00285__e4", "surface": "sesame oil", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00309__e13", "surface": "serve", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00059__e5", "surface": "lemon skin", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00372__e2", "surface": "macaroni", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00022__e5", "surface": "green cardamom", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00370__e10", "surface": "fenander milk", "type": "ingredient", "variant": "v1_reworded", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00101__e8", "surface": "olive oil", "type": "ingredient", "variant": "v1_reworded", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00004__e13", "surface": "flavorful", "type": "attribute", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00306__e1", "surface": "calamari tentacles", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00161__e6", "surface": "make", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00018__e3", "surface": "noodles", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00032__e4", "surface": "herbs", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00242__e5", "surface": "tomato puree", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00311__e6", "surface": "add", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00254__e5", "surface": "garlic", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00160__e3", "surface": "salt", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00245__e2", "surface": "onions", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00161__e2", "surface": "garlic powder", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00433__e4", "surface": "olaine dressing", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00051__e4", "surface": "worcestershire sauce", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00251__e7", "surface": "simmer", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00055__e3", "surface": "celery", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00213__e2", "surface": "brown sugar", "type": "ingredient", "variant": "v1_reworded", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00422__e1", "surface": "meat", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00200__e1", "surface": "meatballs", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00265__e8", "surface": "slice", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00414__e3", "surface": "ghee", "type": "ingredient", "variant": "v1_reworded", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00119__e5", "surface": "cucumber", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00092__e4", "surface": "milk", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00050__e6", "surface": "stretch", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00394__e4", "surface": "potato", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00381__e6", "surface": "mix", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00132__e7", "surface": "lettuce", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00187__e7", "surface": "black pepper", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00309__e11", "surface": "cook", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00169__e4", "surface": "ground pepper", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00106__e3", "surface": "carrots", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00406__e8", "surface": "divide", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00337__e8", "surface": "pepper", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00300__e12", "surface": "sauté", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00423__e2", "surface": "garlic", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00034__e8", "surface": "cook", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00291__e3", "surface": "egg yolk", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00001__e2", "surface": "brine", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00093__e7", "surface": "add", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00360__e7", "surface": "rice sauce", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00289__e8", "surface": "boiling water", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00101__e10", "surface": "blend", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00449__e10", "surface": "tofu", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00070__e4", "surface": "skim", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00427__e7", "surface": "at", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00157__e3", "surface": "hot oil", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00214__e5", "surface": "sives", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00117__e4", "surface": "cucumbers", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00102__e8", "surface": "milk", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00411__e1", "surface": "swiss grilled cheddar sandwich", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00396__e6", "surface": "sugar", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00352__e6", "surface": "walnuts", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00194__e9", "surface": "orange juice", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00145__e1", "surface": "pepperoni sandwich", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00452__e11", "surface": "burrito", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00274__e1", "surface": "batteramed egg", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00069__e6", "surface": "cucumber", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00364__e1", "surface": "bulgarraaze", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00042__e5", "surface": "cayenne pepper", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00144__e7", "surface": "toast", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00444__e5", "surface": "cucumber", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00241__e4", "surface": "oil", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00240__e6", "surface": "mix", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00156__e2", "surface": "ginger", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00304__e2", "surface": "potatoes", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00087__e10", "surface": "broth", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00213__e6", "surface": "sausmegized onions", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00250__e4", "surface": "lettuce", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00232__e3", "surface": "bacon", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00437__e5", "surface": "cheese", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00004__e5", "surface": "ginger paste", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00412__e5", "surface": "salt", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00180__e2", "surface": "lay", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00387__e6", "surface": "pancetta", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00000__e5", "surface": "verattago", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00427__e3", "surface": "seasonings", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00398__e11", "surface": "serve", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00255__e6", "surface": "garnumber", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00373__e4", "surface": "lemon juice", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00055__e7", "surface": "chicken stock", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00047__e1", "surface": "hot dogs", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00215__e1", "surface": "ribs", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00351__e1", "surface": "pasta", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00153__e2", "surface": "flour", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00166__e7", "surface": "spring", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00422__e3", "surface": "oil", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00156__e12", "surface": "sauté", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00027__e7", "surface": "season", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00258__e1", "surface": "chicken whites", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00049__e2", "surface": "grill", "type": "tool", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00098__e1", "surface": "rice paper", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00182__e2", "surface": "butter", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00018__e4", "surface": "fish balls", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00372__e4", "surface": "butter", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00311__e3", "surface": "paneer chilis", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00247__e7", "surface": "leeks", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00416__e8", "surface": "brown sauce", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00303__e6", "surface": "benaise dish", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00386__e9", "surface": "golden whites", "type": "attribute", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00076__e5", "surface": "mustard", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00375__e1", "surface": "potato batter", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00132__e6", "surface": "soy sauce", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00234__e10", "surface": "add", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00110__e5", "surface": "salt", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00135__e10", "surface": "nuts", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00103__e6", "surface": "oregano", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00364__e9", "surface": "transfer", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00247__e10", "surface": "peperings", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00414__e8", "surface": "samosa", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00005__e1", "surface": "dough", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00378__e10", "surface": "lettuce", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00227__e1", "surface": "onion", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00295__e1", "surface": "shrimp", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00308__e5", "surface": "mustard", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00379__e2", "surface": "bell peppers", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00018__e2", "surface": "chicken broth", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00272__e7", "surface": "assemble", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00222__e1", "surface": "oil", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00031__e1", "surface": "beef", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00210__e6", "surface": "salt", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00353__e8", "surface": "mix", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00153__e8", "surface": "cook", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00410__e7", "surface": "ginger oil", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00245__e6", "surface": "red milk", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00398__e1", "surface": "chicken", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00245__e3", "surface": "garlic", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00102__e7", "surface": "sugarers", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00062__e7", "surface": "form", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00251__e4", "surface": "green onions", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00138__e1", "surface": "shrimp", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00184__e8", "surface": "oil", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00083__e8", "surface": "cook", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00088__e5", "surface": "green peppers", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00107__e6", "surface": "chiles", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00118__e1", "surface": "chicken mixture", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00137__e10", "surface": "bake", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00299__e5", "surface": "vegetables", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00388__e13", "surface": "toss", "type": "action", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00173__e7", "surface": "thyme", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00098__e3", "surface": "avocado", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00013__e1", "surface": "red cabbage", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00310__e5", "surface": "cucumber", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00119__e1", "surface": "hamle soup", "type": "ingredient", "variant": "v1_reworded", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00378__e7", "surface": "green onions", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00163__e5", "surface": "chives", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00389__e2", "surface": "chicken soup", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00190__e3", "surface": "bonito flakes", "type": "ingredient", "variant": "v1_reworded", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00045__e8", "surface": "ground beef", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the bottom left frame, there is a green bowl containing ground beef.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00388__e3", "surface": "yellow pepper", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the bottom right corner of the grid, there appears to be a yellow object that resembles a pepper.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00428__e8", "surface": "pot", "type": "tool", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top left frame, a pot is clearly visible.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00318__e1", "surface": "tomato sauce", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the third row, the third frame from the left, there appears to be a pot with a red liquid that resembles tomato sauce.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00188__e2", "surface": "clams", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "Clams are present in the top right and bottom right frames, where they are being cooked in a pot.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00209__e3", "surface": "lime sauce", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the image, there is a bowl of lime wedges visible, which could be used to make lime sauce.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00399__e4", "surface": "cayenne pepper", "type": "ingredient", "variant": "v2_cot", "human": "A", "vlm": "A", "raw": "No cayenne pepper is visible in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00031__e8", "surface": "honey", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the 4th frame from the top right, a spoon appears to be holding a substance that resembles honey.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00278__e1", "surface": "shepherd", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "No sheep or shepherd is visible in any of the frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00432__e3", "surface": "oil", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the third row, second frame from the left, there appears to be a bottle with a dark liquid that resembles oil.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00225__e1", "surface": "pierogies", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top left frame, there is a plate with what appears to be cooked pierogies.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00195__e8", "surface": "oil miso soup", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The image shows a person preparing food in a kitchen, but there is no visible evidence of oil miso soup in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00013__e13", "surface": "wok", "type": "tool", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the third row, the second frame from the left, there appears to be a wok being used for cooking.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00329__e9", "surface": "mixing", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the second frame, hands are shown mixing ingredients in a bowl.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00434__e5", "surface": "tomato puree", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the frames, there is no clear evidence of tomato puree being present.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00179__e2", "surface": "baking powder", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the image, baking powder is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00261__e6", "surface": "bean sprouts", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the image, there are no frames where \"bean sprouts\" are clearly visible.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00272__e1", "surface": "burger", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top right frame, a burger is clearly visible with the text \"How to Make a Whopper\" above it.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00205__e2", "surface": "salt", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the image, there is no clear depiction of salt in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00006__e3", "surface": "chili powder", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "Chili powder is visible in the second frame, where it is being added to the pot.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00194__e1", "surface": "kimchi dumchi", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The image shows various stages of making dumplings, including filling and shaping, but there is no clear depiction of kimchi dumplings.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00177__e2", "surface": "italian dressing", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "No Italian dressing is visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00230__e5", "surface": "cayenne sticks", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the bottom right frame, there appears to be a container of cayenne pepper, which is often used as cayenne sticks.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00006__e10", "surface": "serve", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"serve\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00349__e5", "surface": "lime milk", "type": "ingredient", "variant": "v2_cot", "human": "A", "vlm": "A", "raw": "No lime milk is visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00149__e5", "surface": "flour", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the image, there is a frame where a hand is seen holding a bowl, and the contents appear to be a white powdery substance that resembles flour.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00134__e5", "surface": "lettuce", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the first frame, there appears to be a leafy green that resembles lettuce.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00308__e8", "surface": "bun", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top right frame, a bun appears to be partially visible under a tortilla.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00316__e7", "surface": "shake", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the frames, there is no visible indication of \"shake\" being present.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00174__e2", "surface": "clam peppers", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The image does not clearly show any ingredients that resemble \"clam peppers\". The ingredients appear to be more like diced vegetables and possibly some seafood, but there is no distinct appearance of clam peppers.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00337__e2", "surface": "onions", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top row, the third frame from the left shows onions being added to a pot.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00205__e3", "surface": "chili powder", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "Chili powder is visible in the first frame, where it appears as a red powder in a yellow bowl.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00293__e5", "surface": "cardamated onion", "type": "ingredient", "variant": "v2_cot", "human": "A", "vlm": "A", "raw": "The image does not clearly show any cardamated onion.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00426__e11", "surface": "lid", "type": "tool", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the bottom row, the second frame from the left shows a container with a lid.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00170__e5", "surface": "lemon juice", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "No lemon juice is visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00059__e1", "surface": "sirloin meat", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The image shows various stages of preparing a dish, including marinating and cooking meat, but the specific type of meat is not clearly identifiable as sirloin.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00452__e9", "surface": "mix", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"mix\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00305__e4", "surface": "spices", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "Spices are visible in the top row of the image, where various spices are shown in small bowls.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00344__e11", "surface": "parsley", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the first frame, parsley is visible on the left side of the image.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00033__e2", "surface": "meat", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the second frame, there is a hand holding a piece of raw meat on a cutting board.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00259__e11", "surface": "seal", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The image shows various steps in making vegetable spring rolls, including filling, rolling, and frying. There is no visible seal in any of the frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00342__e4", "surface": "garlic", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the first frame, there is a bowl with what appears to be minced garlic.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00360__e2", "surface": "vegetables", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top left frame, there is a bowl containing what appears to be chopped vegetables.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00264__e4", "surface": "lemon sauce", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the frames, there is a lemon visible, but no clear evidence of lemon sauce being prepared or present.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00242__e6", "surface": "pasta", "type": "ingredient", "variant": "v2_cot", "human": "A", "vlm": "P", "raw": "In the top right frame, there is a bowl of pasta visible.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00425__e1", "surface": "pepper", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The image shows the preparation of a pepperoni pizza bread, but there is no visible pepper in any of the frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00285__e8", "surface": "wok", "type": "tool", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "The wok is clearly visible in several frames of the video.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00285__e4", "surface": "sesame oil", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top row of the grid, there is a bottle of dark liquid that appears to be sesame oil.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00309__e13", "surface": "serve", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"serve\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00059__e5", "surface": "lemon skin", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the second frame, a lemon is visible, and its skin appears to be present.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00372__e2", "surface": "macaroni", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the first frame, macaroni is visible on a cutting board.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00022__e5", "surface": "green cardamom", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top right frame, there appears to be a small amount of green cardamom visible among the spices on the plate.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00370__e10", "surface": "fenander milk", "type": "ingredient", "variant": "v2_cot", "human": "A", "vlm": "A", "raw": "In the image, there is no visible presence of fenander milk in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00101__e8", "surface": "olive oil", "type": "ingredient", "variant": "v2_cot", "human": "A", "vlm": "P", "raw": "In the top left frame, there appears to be a small amount of red liquid that could be olive oil.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00004__e13", "surface": "flavorful", "type": "attribute", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The image shows various stages of cooking a dish, but the word \"flavorful\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00306__e1", "surface": "calamari tentacles", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the first frame, calamari tentacles are visible being cut.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00161__e6", "surface": "make", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"make\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00018__e3", "surface": "noodles", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the bottom right frame, there appears to be a bowl with noodles.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00032__e4", "surface": "herbs", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top right frame, there is a large bunch of parsley, which is a type of herb.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00242__e5", "surface": "tomato puree", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top left frame, there is a bowl of red sauce that could be tomato puree.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00311__e6", "surface": "add", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"add\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00254__e5", "surface": "garlic", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "?", "raw": "In the image, there is a small bowl that appears to contain a white substance, which could be garlic, but it is not clearly identifiable.\n\nAnswer: ?"}
+{"entity_id": "mm_blip_00160__e3", "surface": "salt", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the third frame of the second row, there appears to be a white powdery substance that could be salt.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00245__e2", "surface": "onions", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "Onions are visibly present in the first four frames of the grid.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00161__e2", "surface": "garlic powder", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the image, there is a bowl with a reddish-brown spice being sprinkled over chicken wings, which could be garlic powder.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00433__e4", "surface": "olaine dressing", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The image shows various stages of preparing a BLT Caesar Pasta Salad, but there is no visible dressing that resembles \"olaine dressing.\"\n\nAnswer: A"}
+{"entity_id": "mm_blip_00051__e4", "surface": "worcestershire sauce", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "?", "raw": "In the image, there is a bottle that appears to be a dark liquid, which could potentially be Worcestershire sauce, but it is not clearly identifiable as such.\n\nAnswer: ?"}
+{"entity_id": "mm_blip_00251__e7", "surface": "simmer", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the frames, there is no visible text or object labeled \"simmer\".\n\nAnswer: A"}
+{"entity_id": "mm_blip_00055__e3", "surface": "celery", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the second frame, there is a visible presence of celery being sautéed in a pan.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00213__e2", "surface": "brown sugar", "type": "ingredient", "variant": "v2_cot", "human": "A", "vlm": "A", "raw": "In the image, there is no clear depiction of brown sugar in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00422__e1", "surface": "meat", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the first frame, there is a package of meat on the cutting board.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00200__e1", "surface": "meatballs", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top right corner, there is a bowl with ground meat and herbs, which appears to be the preparation stage for meatballs.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00265__e8", "surface": "slice", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top right frame, there is a close-up of a slice of bread.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00414__e3", "surface": "ghee", "type": "ingredient", "variant": "v2_cot", "human": "A", "vlm": "A", "raw": "No ghee is visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00119__e5", "surface": "cucumber", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the first four frames, a cucumber is being sliced.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00092__e4", "surface": "milk", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "?", "raw": "In the first frame, there appears to be a container that could contain milk, but it is not clearly identifiable as milk.\n\nAnswer: ?"}
+{"entity_id": "mm_blip_00050__e6", "surface": "stretch", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the frame where hands are shown working with dough, it appears that the dough is being stretched.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00394__e4", "surface": "potato", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the bottom row of frames, there appears to be a bowl with what looks like mashed potatoes.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00381__e6", "surface": "mix", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top right frame, a hand is shown mixing ingredients in a bowl.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00132__e7", "surface": "lettuce", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the 4x4 grid of frames, lettuce is visible in the bottom right corner of the third row.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00187__e7", "surface": "black pepper", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top row of frames, there appears to be a small amount of black pepper visible in the pan.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00309__e11", "surface": "cook", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"cook\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00169__e4", "surface": "ground pepper", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the frames showing sausages, there appears to be a dark, granular substance that could be ground pepper.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00106__e3", "surface": "carrots", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the first frame, carrots are visibly present among the ingredients on the cutting board.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00406__e8", "surface": "divide", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"divide\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00337__e8", "surface": "pepper", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "No pepper is visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00300__e12", "surface": "sauté", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the frames, there is no clear depiction of the term \"sauté\" or the action of sautéing.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00423__e2", "surface": "garlic", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "Garlic is visible in the first frame, where it is placed on a green cutting board.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00034__e8", "surface": "cook", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"cook\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00291__e3", "surface": "egg yolk", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top right frame, there appears to be a bowl containing a yellowish substance that resembles egg yolk.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00001__e2", "surface": "brine", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the top right frame, a liquid is being poured into a bowl, which could be brine.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00093__e7", "surface": "add", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"add\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00360__e7", "surface": "rice sauce", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the frames, there is no clear depiction of rice sauce.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00289__e8", "surface": "boiling water", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the frames showing the cooking process, there is no visible boiling water.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00101__e10", "surface": "blend", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"blend\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00449__e10", "surface": "tofu", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the bottom right frame, there appears to be a dish that resembles tofu being cooked.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00070__e4", "surface": "skim", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"skim\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00427__e7", "surface": "at", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"at\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00157__e3", "surface": "hot oil", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the first frame, there appears to be a pot with a dark liquid that could be hot oil.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00214__e5", "surface": "sives", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The term \"sives\" is not present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00117__e4", "surface": "cucumbers", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the third row of the grid, there is a bowl containing what appears to be cucumbers.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00102__e8", "surface": "milk", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the third row, the second frame from the left shows a glass jar with a white liquid that appears to be milk.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00411__e1", "surface": "swiss grilled cheddar sandwich", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the frames, there are various types of cheese and bread, but no specific \"Swiss grilled cheddar sandwich\" is clearly identifiable.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00396__e6", "surface": "sugar", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the frames, there is a container labeled \"2T Sugar\" on the countertop.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00352__e6", "surface": "walnuts", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the third row, the third frame from the left, walnuts are being added to a dish.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00194__e9", "surface": "orange juice", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "No orange juice is visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00145__e1", "surface": "pepperoni sandwich", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top right frame, there is a sandwich with visible pepperoni slices.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00452__e11", "surface": "burrito", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the bottom row, the final frame shows a tortilla with a filling, which is a burrito.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00274__e1", "surface": "batteramed egg", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "The image shows the process of making a batter, including mixing ingredients and frying the batter-coated food item. The egg is mixed into the batter in the blender.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00069__e6", "surface": "cucumber", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "No cucumber is visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00364__e1", "surface": "bulgarraaze", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The term \"bulgarraaze\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00042__e5", "surface": "cayenne pepper", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the image, there is a bottle of hot sauce that appears to be cayenne pepper.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00144__e7", "surface": "toast", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the bottom right frame, there appears to be a piece of food that resembles toast.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00444__e5", "surface": "cucumber", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the 4th frame from the top left, there appears to be a slice of cucumber on the sushi.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00241__e4", "surface": "oil", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top right frame, there appears to be a liquid being poured into a bowl, which could be oil.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00240__e6", "surface": "mix", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the frames, there is a bowl with a spoon, which could imply mixing, but the word \"mix\" itself is not visibly present.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00156__e2", "surface": "ginger", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the third row of the grid, there is a frame showing ginger being prepared.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00304__e2", "surface": "potatoes", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the first frame, there is a plate with what appears to be sausages and mashed potatoes, and in the subsequent frames, there are various stages of cooking potatoes, including peeling, boiling, and mashing.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00087__e10", "surface": "broth", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the frames, there is a pot on the stove with a liquid that appears to be broth.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00213__e6", "surface": "sausmegized onions", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top right frame, there appears to be a dish with onions that could be sausmegized onions.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00250__e4", "surface": "lettuce", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "Lettuce is visible in the first frame, where it is placed on top of the beans in the tortilla.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00232__e3", "surface": "bacon", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top row, the second frame from the left shows a piece of bacon being cooked in a pan.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00437__e5", "surface": "cheese", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "Cheese is visible in the top right frame where it is being added to a sandwich.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00004__e5", "surface": "ginger paste", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the first frame, there appears to be a small amount of a yellowish paste that could be ginger paste.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00412__e5", "surface": "salt", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the image, there is a container labeled \"salt\" in one of the frames.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00180__e2", "surface": "lay", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"lay\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00387__e6", "surface": "pancetta", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the frame labeled \"Fry the Bacon Bits/Pancetta,\" pancetta is visibly present.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00000__e5", "surface": "verattago", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The text \"verattago\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00427__e3", "surface": "seasonings", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the second frame, a hand is seen sprinkling something onto a bowl of flour, which could be seasonings.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00398__e11", "surface": "serve", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"serve\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00255__e6", "surface": "garnumber", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The term \"garnumber\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00373__e4", "surface": "lemon juice", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the first frame, a hand is squeezing a lemon over a bowl, suggesting the presence of lemon juice.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00055__e7", "surface": "chicken stock", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "No chicken stock is visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00047__e1", "surface": "hot dogs", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the top left frame, there is a person in a kitchen, and in the top right frame, there is a close-up of what appears to be corn dogs. However, the question specifically asks about \"hot dogs,\" and the top right frame shows corn dogs, not hot dogs.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00215__e1", "surface": "ribs", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top row, the third frame shows a close-up of what appears to be ribs being marinated.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00351__e1", "surface": "pasta", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In several frames, pasta is visibly present, such as in the top row and throughout the grid.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00153__e2", "surface": "flour", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "The flour is visible in the first two frames of the grid.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00166__e7", "surface": "spring", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the image, there are no visible elements that clearly indicate \"spring.\"\n\nAnswer: A"}
+{"entity_id": "mm_blip_00422__e3", "surface": "oil", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the first frame, a hand is holding a small white container, which appears to be a spice jar, not oil.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00156__e12", "surface": "sauté", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the frames, there is no visible evidence of sautéing.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00027__e7", "surface": "season", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"season\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00258__e1", "surface": "chicken whites", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top-left frame, a person is holding a piece of chicken, which appears to be a chicken breast.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00049__e2", "surface": "grill", "type": "tool", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the third and fourth rows, the frames show a cooking surface with food items on it, which appears to be a grill.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00098__e1", "surface": "rice paper", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the third row, the third frame from the left, rice paper is being handled and appears to be the main focus of the frame.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00182__e2", "surface": "butter", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top right frame, there is a container labeled \"2 TBSP BUTTER\".\n\nAnswer: P"}
+{"entity_id": "mm_blip_00018__e4", "surface": "fish balls", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the first frame, a person is holding what appears to be fish balls. In the subsequent frames, the fish balls are added to a pot of boiling liquid.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00372__e4", "surface": "butter", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top row of the grid, there are two packages of butter visible among the ingredients.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00311__e3", "surface": "paneer chilis", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "No paneer chilis are visible in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00247__e7", "surface": "leeks", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the first few frames, there appear to be green vegetables that resemble leeks being added to the pot.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00416__e8", "surface": "brown sauce", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The image does not show any brown sauce in the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00303__e6", "surface": "benaise dish", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The image shows the process of making Eggs Benedict, but there is no visible benaise dish in the frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00386__e9", "surface": "golden whites", "type": "attribute", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top left frame, there are golden-brown fried items that appear to be samosas or similar pastries.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00076__e5", "surface": "mustard", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The image does not clearly show mustard in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00375__e1", "surface": "potato batter", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the frames, there are bowls and utensils, but no clear evidence of potato batter.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00132__e6", "surface": "soy sauce", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top right frame, a bottle that appears to be soy sauce is visible.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00234__e10", "surface": "add", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"add\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00110__e5", "surface": "salt", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the frames, there is no clear visibility of salt.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00135__e10", "surface": "nuts", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top right frame, there appears to be a small amount of what looks like chopped nuts in the bowl.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00103__e6", "surface": "oregano", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "The image shows various stages of food preparation, including chopping vegetables and adding ingredients to a dish. There is a frame where fresh herbs are visible, which could potentially be oregano.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00364__e9", "surface": "transfer", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"transfer\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00247__e10", "surface": "peperings", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the frames, there is no clear depiction of \"peperings\".\n\nAnswer: A"}
+{"entity_id": "mm_blip_00414__e8", "surface": "samosa", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the frames, there are no clear depictions of samosas.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00005__e1", "surface": "dough", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the first four frames, there is a bowl with a mixture that appears to be dough being prepared.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00378__e10", "surface": "lettuce", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the first frame, there appears to be a leafy green vegetable that could be lettuce.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00227__e1", "surface": "onion", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top right frame, there is a pot with what appears to be sautéed onions.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00295__e1", "surface": "shrimp", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top right frame, shrimp is visibly present in the bowl.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00308__e5", "surface": "mustard", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "No mustard is visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00379__e2", "surface": "bell peppers", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top row of the grid, the second frame from the left shows a plate with bell peppers among other vegetables.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00018__e2", "surface": "chicken broth", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the frames, there are pots on the stove with a liquid that appears to be chicken broth, as it is a light brown color and has ingredients floating in it.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00272__e7", "surface": "assemble", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"assemble\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00222__e1", "surface": "oil", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "?", "raw": "In the image, there is a bottle that appears to contain a liquid that could be oil, but it is not clearly labeled as such.\n\nAnswer: ?"}
+{"entity_id": "mm_blip_00031__e1", "surface": "beef", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "Beef is visibly present in the top right frame, where ground beef is being stirred in a pan.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00210__e6", "surface": "salt", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "No salt is visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00353__e8", "surface": "mix", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"mix\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00153__e8", "surface": "cook", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"cook\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00410__e7", "surface": "ginger oil", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top row, the third frame shows a small bowl of yellow liquid that appears to be ginger oil.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00245__e6", "surface": "red milk", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The image shows a cooking process for \"Ginataang Kuhol,\" a Filipino dish. The frames depict the addition of ingredients such as onions, garlic, red chilies, and clams, as well as the cooking process in a pot. There is no visible red milk in any of the frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00398__e1", "surface": "chicken", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the first four frames, chicken is visibly present as raw pieces of chicken are shown in a bowl and on a cutting board. In the subsequent frames, chicken is being cooked in a pan with onions and other ingredients.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00245__e3", "surface": "garlic", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "Garlic is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00102__e7", "surface": "sugarers", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The term \"sugarers\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00062__e7", "surface": "form", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"form\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00251__e4", "surface": "green onions", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the frames, there are no clear indications of green onions being present.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00138__e1", "surface": "shrimp", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the first frame, a person is holding a bowl with what appears to be shrimp.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00184__e8", "surface": "oil", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the frames showing the cooking process, there is no visible oil.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00083__e8", "surface": "cook", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"cook\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00088__e5", "surface": "green peppers", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the first frame, there is a bowl of chopped green bell peppers visible on the table.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00107__e6", "surface": "chiles", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the frames, there are no clear visual indicators of chiles.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00118__e1", "surface": "chicken mixture", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "The chicken mixture is visible in the first frame, where raw chicken pieces are shown.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00137__e10", "surface": "bake", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"bake\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00299__e5", "surface": "vegetables", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top right frame, there is a cutting board with chopped vegetables, including carrots and green beans.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00388__e13", "surface": "toss", "type": "action", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The word \"toss\" is not visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00173__e7", "surface": "thyme", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the top row, the second frame from the left shows a small amount of green herb that appears to be thyme.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00098__e3", "surface": "avocado", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "No avocado is visible in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00013__e1", "surface": "red cabbage", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "The image does not show any red cabbage in the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00310__e5", "surface": "cucumber", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "P", "raw": "In the third row, the second frame from the left shows hands handling a green vegetable that appears to be a cucumber.\n\nAnswer: P"}
+{"entity_id": "mm_blip_00119__e1", "surface": "hamle soup", "type": "ingredient", "variant": "v2_cot", "human": "A", "vlm": "A", "raw": "The image shows the preparation of ingredients for Hiyashi Chyuka Ramen, including chopping vegetables and noodles, but there is no visible hamle soup in the frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00378__e7", "surface": "green onions", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the frames, there are no clear indications of green onions being present.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00163__e5", "surface": "chives", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "No chives are visibly present in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00389__e2", "surface": "chicken soup", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "No chicken soup is visible in any of the frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00190__e3", "surface": "bonito flakes", "type": "ingredient", "variant": "v2_cot", "human": "P", "vlm": "A", "raw": "In the image, there are no visible signs of bonito flakes in any of the 16 frames.\n\nAnswer: A"}
+{"entity_id": "mm_blip_00045__e8", "surface": "ground beef", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00388__e3", "surface": "yellow pepper", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00428__e8", "surface": "pot", "type": "tool", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00318__e1", "surface": "tomato sauce", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00188__e2", "surface": "clams", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00209__e3", "surface": "lime sauce", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00399__e4", "surface": "cayenne pepper", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00031__e8", "surface": "honey", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00278__e1", "surface": "shepherd", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00432__e3", "surface": "oil", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00225__e1", "surface": "pierogies", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00195__e8", "surface": "oil miso soup", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00013__e13", "surface": "wok", "type": "tool", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00329__e9", "surface": "mixing", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00434__e5", "surface": "tomato puree", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00179__e2", "surface": "baking powder", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00261__e6", "surface": "bean sprouts", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00272__e1", "surface": "burger", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00205__e2", "surface": "salt", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00006__e3", "surface": "chili powder", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00194__e1", "surface": "kimchi dumchi", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00177__e2", "surface": "italian dressing", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00230__e5", "surface": "cayenne sticks", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00006__e10", "surface": "serve", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00349__e5", "surface": "lime milk", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00149__e5", "surface": "flour", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00134__e5", "surface": "lettuce", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00308__e8", "surface": "bun", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00316__e7", "surface": "shake", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00174__e2", "surface": "clam peppers", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00337__e2", "surface": "onions", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00205__e3", "surface": "chili powder", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00293__e5", "surface": "cardamated onion", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00426__e11", "surface": "lid", "type": "tool", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00170__e5", "surface": "lemon juice", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00059__e1", "surface": "sirloin meat", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00452__e9", "surface": "mix", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00305__e4", "surface": "spices", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00344__e11", "surface": "parsley", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00033__e2", "surface": "meat", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00259__e11", "surface": "seal", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00342__e4", "surface": "garlic", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00360__e2", "surface": "vegetables", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00264__e4", "surface": "lemon sauce", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00242__e6", "surface": "pasta", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "A", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00425__e1", "surface": "pepper", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00285__e8", "surface": "wok", "type": "tool", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00285__e4", "surface": "sesame oil", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00309__e13", "surface": "serve", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00059__e5", "surface": "lemon skin", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00372__e2", "surface": "macaroni", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00022__e5", "surface": "green cardamom", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00370__e10", "surface": "fenander milk", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00101__e8", "surface": "olive oil", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00004__e13", "surface": "flavorful", "type": "attribute", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00306__e1", "surface": "calamari tentacles", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00161__e6", "surface": "make", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00018__e3", "surface": "noodles", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00032__e4", "surface": "herbs", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00242__e5", "surface": "tomato puree", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00311__e6", "surface": "add", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00254__e5", "surface": "garlic", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00160__e3", "surface": "salt", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00245__e2", "surface": "onions", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00161__e2", "surface": "garlic powder", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00433__e4", "surface": "olaine dressing", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00051__e4", "surface": "worcestershire sauce", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00251__e7", "surface": "simmer", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00055__e3", "surface": "celery", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00213__e2", "surface": "brown sugar", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00422__e1", "surface": "meat", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00200__e1", "surface": "meatballs", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00265__e8", "surface": "slice", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00414__e3", "surface": "ghee", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00119__e5", "surface": "cucumber", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00092__e4", "surface": "milk", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00050__e6", "surface": "stretch", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00394__e4", "surface": "potato", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00381__e6", "surface": "mix", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00132__e7", "surface": "lettuce", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00187__e7", "surface": "black pepper", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00309__e11", "surface": "cook", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00169__e4", "surface": "ground pepper", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00106__e3", "surface": "carrots", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00406__e8", "surface": "divide", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00337__e8", "surface": "pepper", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00300__e12", "surface": "sauté", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00423__e2", "surface": "garlic", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00034__e8", "surface": "cook", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00291__e3", "surface": "egg yolk", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00001__e2", "surface": "brine", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00093__e7", "surface": "add", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00360__e7", "surface": "rice sauce", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00289__e8", "surface": "boiling water", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00101__e10", "surface": "blend", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00449__e10", "surface": "tofu", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00070__e4", "surface": "skim", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00427__e7", "surface": "at", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00157__e3", "surface": "hot oil", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00214__e5", "surface": "sives", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00117__e4", "surface": "cucumbers", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00102__e8", "surface": "milk", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00411__e1", "surface": "swiss grilled cheddar sandwich", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00396__e6", "surface": "sugar", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00352__e6", "surface": "walnuts", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00194__e9", "surface": "orange juice", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00145__e1", "surface": "pepperoni sandwich", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00452__e11", "surface": "burrito", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00274__e1", "surface": "batteramed egg", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00069__e6", "surface": "cucumber", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00364__e1", "surface": "bulgarraaze", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00042__e5", "surface": "cayenne pepper", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00144__e7", "surface": "toast", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00444__e5", "surface": "cucumber", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00241__e4", "surface": "oil", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00240__e6", "surface": "mix", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00156__e2", "surface": "ginger", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00304__e2", "surface": "potatoes", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00087__e10", "surface": "broth", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00213__e6", "surface": "sausmegized onions", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00250__e4", "surface": "lettuce", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00232__e3", "surface": "bacon", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00437__e5", "surface": "cheese", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00004__e5", "surface": "ginger paste", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00412__e5", "surface": "salt", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00180__e2", "surface": "lay", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00387__e6", "surface": "pancetta", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00000__e5", "surface": "verattago", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00427__e3", "surface": "seasonings", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00398__e11", "surface": "serve", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00255__e6", "surface": "garnumber", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00373__e4", "surface": "lemon juice", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00055__e7", "surface": "chicken stock", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00047__e1", "surface": "hot dogs", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00215__e1", "surface": "ribs", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00351__e1", "surface": "pasta", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00153__e2", "surface": "flour", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00166__e7", "surface": "spring", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00422__e3", "surface": "oil", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00156__e12", "surface": "sauté", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00027__e7", "surface": "season", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00258__e1", "surface": "chicken whites", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00049__e2", "surface": "grill", "type": "tool", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00098__e1", "surface": "rice paper", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00182__e2", "surface": "butter", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00018__e4", "surface": "fish balls", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00372__e4", "surface": "butter", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00311__e3", "surface": "paneer chilis", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00247__e7", "surface": "leeks", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00416__e8", "surface": "brown sauce", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00303__e6", "surface": "benaise dish", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00386__e9", "surface": "golden whites", "type": "attribute", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00076__e5", "surface": "mustard", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00375__e1", "surface": "potato batter", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00132__e6", "surface": "soy sauce", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00234__e10", "surface": "add", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00110__e5", "surface": "salt", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00135__e10", "surface": "nuts", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00103__e6", "surface": "oregano", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00364__e9", "surface": "transfer", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00247__e10", "surface": "peperings", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00414__e8", "surface": "samosa", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00005__e1", "surface": "dough", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00378__e10", "surface": "lettuce", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00227__e1", "surface": "onion", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00295__e1", "surface": "shrimp", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00308__e5", "surface": "mustard", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00379__e2", "surface": "bell peppers", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00018__e2", "surface": "chicken broth", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00272__e7", "surface": "assemble", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00222__e1", "surface": "oil", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00031__e1", "surface": "beef", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00210__e6", "surface": "salt", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00353__e8", "surface": "mix", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00153__e8", "surface": "cook", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00410__e7", "surface": "ginger oil", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00245__e6", "surface": "red milk", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00398__e1", "surface": "chicken", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00245__e3", "surface": "garlic", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00102__e7", "surface": "sugarers", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00062__e7", "surface": "form", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00251__e4", "surface": "green onions", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00138__e1", "surface": "shrimp", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00184__e8", "surface": "oil", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00083__e8", "surface": "cook", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00088__e5", "surface": "green peppers", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00107__e6", "surface": "chiles", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00118__e1", "surface": "chicken mixture", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00137__e10", "surface": "bake", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00299__e5", "surface": "vegetables", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00388__e13", "surface": "toss", "type": "action", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00173__e7", "surface": "thyme", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00098__e3", "surface": "avocado", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00013__e1", "surface": "red cabbage", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00310__e5", "surface": "cucumber", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00119__e1", "surface": "hamle soup", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00378__e7", "surface": "green onions", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00163__e5", "surface": "chives", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00389__e2", "surface": "chicken soup", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00190__e3", "surface": "bonito flakes", "type": "ingredient", "variant": "v3_no_ambiguous", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00045__e8", "surface": "ground beef", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00388__e3", "surface": "yellow pepper", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00428__e8", "surface": "pot", "type": "tool", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00318__e1", "surface": "tomato sauce", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00188__e2", "surface": "clams", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00209__e3", "surface": "lime sauce", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00399__e4", "surface": "cayenne pepper", "type": "ingredient", "variant": "v4_order_swap", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00031__e8", "surface": "honey", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00278__e1", "surface": "shepherd", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00432__e3", "surface": "oil", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00225__e1", "surface": "pierogies", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00195__e8", "surface": "oil miso soup", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00013__e13", "surface": "wok", "type": "tool", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00329__e9", "surface": "mixing", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00434__e5", "surface": "tomato puree", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00179__e2", "surface": "baking powder", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00261__e6", "surface": "bean sprouts", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00272__e1", "surface": "burger", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00205__e2", "surface": "salt", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00006__e3", "surface": "chili powder", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00194__e1", "surface": "kimchi dumchi", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00177__e2", "surface": "italian dressing", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00230__e5", "surface": "cayenne sticks", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00006__e10", "surface": "serve", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00349__e5", "surface": "lime milk", "type": "ingredient", "variant": "v4_order_swap", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00149__e5", "surface": "flour", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00134__e5", "surface": "lettuce", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00308__e8", "surface": "bun", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00316__e7", "surface": "shake", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00174__e2", "surface": "clam peppers", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00337__e2", "surface": "onions", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00205__e3", "surface": "chili powder", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00293__e5", "surface": "cardamated onion", "type": "ingredient", "variant": "v4_order_swap", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00426__e11", "surface": "lid", "type": "tool", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00170__e5", "surface": "lemon juice", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00059__e1", "surface": "sirloin meat", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00452__e9", "surface": "mix", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00305__e4", "surface": "spices", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00344__e11", "surface": "parsley", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00033__e2", "surface": "meat", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00259__e11", "surface": "seal", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00342__e4", "surface": "garlic", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00360__e2", "surface": "vegetables", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00264__e4", "surface": "lemon sauce", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00242__e6", "surface": "pasta", "type": "ingredient", "variant": "v4_order_swap", "human": "A", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00425__e1", "surface": "pepper", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00285__e8", "surface": "wok", "type": "tool", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00285__e4", "surface": "sesame oil", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00309__e13", "surface": "serve", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00059__e5", "surface": "lemon skin", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00372__e2", "surface": "macaroni", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00022__e5", "surface": "green cardamom", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00370__e10", "surface": "fenander milk", "type": "ingredient", "variant": "v4_order_swap", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00101__e8", "surface": "olive oil", "type": "ingredient", "variant": "v4_order_swap", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00004__e13", "surface": "flavorful", "type": "attribute", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00306__e1", "surface": "calamari tentacles", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00161__e6", "surface": "make", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00018__e3", "surface": "noodles", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00032__e4", "surface": "herbs", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00242__e5", "surface": "tomato puree", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00311__e6", "surface": "add", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00254__e5", "surface": "garlic", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00160__e3", "surface": "salt", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00245__e2", "surface": "onions", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00161__e2", "surface": "garlic powder", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00433__e4", "surface": "olaine dressing", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00051__e4", "surface": "worcestershire sauce", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00251__e7", "surface": "simmer", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00055__e3", "surface": "celery", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00213__e2", "surface": "brown sugar", "type": "ingredient", "variant": "v4_order_swap", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00422__e1", "surface": "meat", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00200__e1", "surface": "meatballs", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00265__e8", "surface": "slice", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00414__e3", "surface": "ghee", "type": "ingredient", "variant": "v4_order_swap", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00119__e5", "surface": "cucumber", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00092__e4", "surface": "milk", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00050__e6", "surface": "stretch", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00394__e4", "surface": "potato", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00381__e6", "surface": "mix", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00132__e7", "surface": "lettuce", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00187__e7", "surface": "black pepper", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00309__e11", "surface": "cook", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00169__e4", "surface": "ground pepper", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00106__e3", "surface": "carrots", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00406__e8", "surface": "divide", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00337__e8", "surface": "pepper", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00300__e12", "surface": "sauté", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00423__e2", "surface": "garlic", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00034__e8", "surface": "cook", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00291__e3", "surface": "egg yolk", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00001__e2", "surface": "brine", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00093__e7", "surface": "add", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00360__e7", "surface": "rice sauce", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00289__e8", "surface": "boiling water", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00101__e10", "surface": "blend", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00449__e10", "surface": "tofu", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00070__e4", "surface": "skim", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00427__e7", "surface": "at", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00157__e3", "surface": "hot oil", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00214__e5", "surface": "sives", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00117__e4", "surface": "cucumbers", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00102__e8", "surface": "milk", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00411__e1", "surface": "swiss grilled cheddar sandwich", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00396__e6", "surface": "sugar", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00352__e6", "surface": "walnuts", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00194__e9", "surface": "orange juice", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00145__e1", "surface": "pepperoni sandwich", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00452__e11", "surface": "burrito", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00274__e1", "surface": "batteramed egg", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00069__e6", "surface": "cucumber", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00364__e1", "surface": "bulgarraaze", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00042__e5", "surface": "cayenne pepper", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00144__e7", "surface": "toast", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00444__e5", "surface": "cucumber", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00241__e4", "surface": "oil", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00240__e6", "surface": "mix", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00156__e2", "surface": "ginger", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00304__e2", "surface": "potatoes", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00087__e10", "surface": "broth", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00213__e6", "surface": "sausmegized onions", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00250__e4", "surface": "lettuce", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00232__e3", "surface": "bacon", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00437__e5", "surface": "cheese", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00004__e5", "surface": "ginger paste", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00412__e5", "surface": "salt", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00180__e2", "surface": "lay", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00387__e6", "surface": "pancetta", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00000__e5", "surface": "verattago", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00427__e3", "surface": "seasonings", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00398__e11", "surface": "serve", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00255__e6", "surface": "garnumber", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00373__e4", "surface": "lemon juice", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00055__e7", "surface": "chicken stock", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00047__e1", "surface": "hot dogs", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00215__e1", "surface": "ribs", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00351__e1", "surface": "pasta", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00153__e2", "surface": "flour", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00166__e7", "surface": "spring", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00422__e3", "surface": "oil", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00156__e12", "surface": "sauté", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00027__e7", "surface": "season", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00258__e1", "surface": "chicken whites", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00049__e2", "surface": "grill", "type": "tool", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00098__e1", "surface": "rice paper", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00182__e2", "surface": "butter", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00018__e4", "surface": "fish balls", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00372__e4", "surface": "butter", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00311__e3", "surface": "paneer chilis", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00247__e7", "surface": "leeks", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00416__e8", "surface": "brown sauce", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00303__e6", "surface": "benaise dish", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00386__e9", "surface": "golden whites", "type": "attribute", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00076__e5", "surface": "mustard", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00375__e1", "surface": "potato batter", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00132__e6", "surface": "soy sauce", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00234__e10", "surface": "add", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00110__e5", "surface": "salt", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00135__e10", "surface": "nuts", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00103__e6", "surface": "oregano", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00364__e9", "surface": "transfer", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00247__e10", "surface": "peperings", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00414__e8", "surface": "samosa", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00005__e1", "surface": "dough", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00378__e10", "surface": "lettuce", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00227__e1", "surface": "onion", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00295__e1", "surface": "shrimp", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00308__e5", "surface": "mustard", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00379__e2", "surface": "bell peppers", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00018__e2", "surface": "chicken broth", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00272__e7", "surface": "assemble", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00222__e1", "surface": "oil", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00031__e1", "surface": "beef", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00210__e6", "surface": "salt", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00353__e8", "surface": "mix", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00153__e8", "surface": "cook", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00410__e7", "surface": "ginger oil", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00245__e6", "surface": "red milk", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00398__e1", "surface": "chicken", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00245__e3", "surface": "garlic", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00102__e7", "surface": "sugarers", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00062__e7", "surface": "form", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00251__e4", "surface": "green onions", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00138__e1", "surface": "shrimp", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00184__e8", "surface": "oil", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00083__e8", "surface": "cook", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00088__e5", "surface": "green peppers", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00107__e6", "surface": "chiles", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00118__e1", "surface": "chicken mixture", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00137__e10", "surface": "bake", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00299__e5", "surface": "vegetables", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00388__e13", "surface": "toss", "type": "action", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00173__e7", "surface": "thyme", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00098__e3", "surface": "avocado", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00013__e1", "surface": "red cabbage", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00310__e5", "surface": "cucumber", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "P", "raw": "P"}
+{"entity_id": "mm_blip_00119__e1", "surface": "hamle soup", "type": "ingredient", "variant": "v4_order_swap", "human": "A", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00378__e7", "surface": "green onions", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00163__e5", "surface": "chives", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00389__e2", "surface": "chicken soup", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}
+{"entity_id": "mm_blip_00190__e3", "surface": "bonito flakes", "type": "ingredient", "variant": "v4_order_swap", "human": "P", "vlm": "A", "raw": "A"}

@@ -1,0 +1,33 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.ipynb_checkpoints/
+
+checkpoints
+data/videos
+data/features
+data/dataset_raw
+outputs/summaries/
+outputs/kg/*.json
+outputs/grounding/*.json
+outputs/results/*.json
+
+*.log
+lightning_logs/
+.vscode/
+.idea/
+.DS_Store
+
+# Large cached outputs — hosted on OneDrive, not GitHub
+outputs/grounding/
+outputs/annotation/vlm/
+outputs/kg/
+
+# Keep sweep results and human judgments (small, paper-critical)
+!outputs/results/
+!outputs/annotation/judegements/
+!outputs/annotation/*.csv
+outputs/annotation/frames/
+README_backup.md
+README_backup.md

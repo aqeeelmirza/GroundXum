@@ -1,0 +1,13 @@
+dataset,model,type,group,n,agree_pct,kappa,human_P_pct,humanP_vlmA_pct
+youcook2,mm,ingredient,non-visual,159,53.5,0.0845,94.3,45.9
+youcook2,mm,action,non-visual,34,23.5,0.0,100.0,76.5
+youcook2,blip,ingredient,non-visual,139,52.5,0.1453,90.6,47.5
+youcook2,blip,action,non-visual,51,31.4,0.0419,94.1,68.6
+videoxum,mm,action,non-visual,81,44.4,0.1176,88.9,55.6
+videoxum,mm,person,visual,49,75.5,0.3731,85.7,22.4
+videoxum,mm,object,visual,40,72.5,0.3125,90.0,27.5
+videoxum,mm,setting,visual,23,82.6,0.0,100.0,17.4
+videoxum,blip,action,non-visual,81,48.1,0.1457,87.7,51.9
+videoxum,blip,person,visual,49,91.8,0.626,91.8,8.2
+videoxum,blip,object,visual,36,61.1,0.2478,80.6,36.1
+videoxum,blip,setting,visual,34,67.6,0.3746,79.4,32.4
